@@ -1,0 +1,6 @@
+# Pin major versions in production; relax upper bound as needed.
+python-telegram-bot>=21.0,<23
+openai>=1.40.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+python-dotenv>=1.0.0

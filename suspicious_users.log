@@ -1,0 +1,194 @@
+⚠️ Suspicious activity detected!
+User: 7854228672
+Username: @alikhbayrbv
+Name: alikhan bayrbyv
+Command: /nikto
+URL: https://halykbank.kz/kz
+
+⚠️ Suspicious activity detected!
+User: 7854228672
+Username: @alikhbayrbv
+Name: alikhan bayrbyv
+Command: /ssrf
+URL: https://halykbank.kz/kz
+
+⚠️ Suspicious activity detected!
+User: 7854228672
+Username: @alikhbayrbv
+Name: alikhan bayrbyv
+Command: /fetchpage
+URL: https://halykbank.kz/kz
+
+⚠️ Suspicious activity detected!
+User: 7854228672
+Username: @alikhbayrbv
+Name: alikhan bayrbyv
+Command: /subdomains
+Domain: https://kaspi.kz/
+
+⚠️ Suspicious activity detected!
+User: 7854228672
+Username: @alikhbayrbv
+Name: alikhan bayrbyv
+Command: /nikto
+URL: https://kaspi.kz/
+
+⚠️ Suspicious activity detected!
+User: 7854228672
+Username: @alikhbayrbv
+Name: alikhan bayrbyv
+Command: /sqlmap
+URL: https://kaspi.kz/
+
+⚠️ Suspicious activity detected!
+User: 7854228672
+Username: @alikhbayrbv
+Name: alikhan bayrbyv
+Command: /sqlmap
+URL: https://moodle.astanait.edu.kz/login/index.php
+
+⚠️ Suspicious activity detected!
+User: 842936957
+Username: @agilusha
+Name: A. None
+Command: /nikto
+URL: https://egov.kz/cms/ru
+
+⚠️ Suspicious activity detected!
+User: 842936957
+Username: @agilusha
+Name: A. None
+Command: /sqlmap
+URL: https://egov.kz/cms/ru
+
+⚠️ Suspicious activity detected!
+User: 842936957
+Username: @agilusha
+Name: A. None
+Command: /ssrf
+URL: https://egov.kz/cms/ru
+
+⚠️ Suspicious activity detected!
+User: 7854228672
+Username: @aa10user
+Name: Alibek Aidyn
+Command: /nikto
+URL: https://egov.kz/cms/ru
+
+⚠️ Suspicious activity detected!
+User: 7854228672
+Username: @aa10user
+Name: Alibek Aidyn
+Command: /sqlmap
+URL: https://kaspi.kz/
+
+⚠️ Suspicious activity detected!
+User: 7854228672
+Username: @aa10user
+Name: Alibek Aidyn
+Command: /ssrf
+URL: https://moodle.astanait.edu.kz/login/index.php
+
+⚠️ Suspicious activity detected!
+User: 7854228672
+Username: @aa10user
+Name: Alibek Aidyn
+Command: /nikto
+URL: https://egov.kz/cms/ru
+
+⚠️ Suspicious activity detected!
+User: 7854228672
+Username: @aa10user
+Name: Alibek Aidyn
+Command: /sqlmap
+URL: https://kaspi.kz/
+
+⚠️ Suspicious activity detected!
+User: 7854228672
+Username: @aa10user
+Name: Alibek Aidyn
+Command: /ssrf
+URL: https://moodle.astanait.edu.kz/login/index.php
+
+⚠️ Suspicious activity detected!
+User: 7854228672
+Username: @aa10user
+Name: Alibek Aidyn
+Command: /subdomains
+Domain: https://aisoip.adilet.gov.kz/debtors
+
+⚠️ Suspicious activity detected!
+User: 422710785
+Username: @howisbag
+Name: bagila None
+Command: /nuclei
+URL: https://egov.kz/cms/ru
+
+⚠️ Suspicious activity detected!
+User: 422710785
+Username: @howisbag
+Name: bagila None
+Command: /waf
+URL: https://egov.kz/cms/ru
+
+⚠️ Suspicious activity detected!
+User: 7854228672
+Username: @aa10user
+Name: Alibek Aidyn
+Command: /fetchpage
+URL: https://egov.kz/cms/kk
+
+⚠️ Suspicious activity detected!
+User: 7854228672
+Username: @aa10user
+Name: Alibek Aidyn
+Command: /ssrf
+URL: https://egov.kz/cms/kk
+
+⚠️ Suspicious activity detected!
+User: 422710785
+Username: @howisbag
+Name: bagila None
+Command: /waf
+URL: https://moodle.astanait.edu.kz/
+
+⚠️ Suspicious activity detected!
+User: 422710785
+Command: /nikto
+URL: https://moodle.astanait.edu.kz/
+
+⚠️ Suspicious activity detected!
+User: 422710785
+Command: /nikto
+URL: https://egov.kz/cms/ru
+
+⚠️ Suspicious activity detected!
+User: 422710785
+Command: /waf
+URL: https://egov.kz/cms/ru
+
+⚠️ Suspicious activity detected!
+User: 422710785
+Command: /ssrf
+URL: https://egov.kz/cms/ru
+
+⚠️ Suspicious activity detected!
+User: 422710785
+Command: /gobuster
+URL: https://egov.kz/cms/ru
+
+⚠️ Suspicious activity detected!
+User: 422710785
+Command: /xsstrike
+URL: https://egov.kz/cms/ru
+
+⚠️ Suspicious activity detected!
+User: 7854228672
+Command: /sqlmap
+URL: https://egov.kz/cms/ru
+
+⚠️ Suspicious activity detected!
+User: 422710785
+Command: /nikto
+URL: https://platonus.mnu.kz/
+
