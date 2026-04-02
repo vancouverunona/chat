@@ -1,4 +1,4 @@
-# **🛡️ AIPenTestBot — AI-Powered Telegram Penetration Testing Bot**
+# **🛡️ AIPenTestBot — AI-Powered Penetration Testing Bot**
 AIPenTestBot is a powerful Telegram bot designed for automating web application penetration testing. It integrates classic security tools like SQLMap, Nikto, XSStrike, Nuclei, Subfinder, and more — combined with AI-based report analysis, natural language responses, and vulnerability summaries.
 
 **🚀 Features**
