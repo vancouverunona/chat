@@ -4,6 +4,7 @@ AIPenTestBot is a powerful Telegram bot designed for automating web application 
 **🚀 Features**
 
 **🔍 Automated Scanning**
+
 /sqlmap — SQL Injection detection
 /nikto — Web server misconfiguration scan
 /xsstrike — XSS vulnerability detection
@@ -16,9 +17,11 @@ AIPenTestBot is a powerful Telegram bot designed for automating web application 
 
 
 **📊 Report Parsing**
+
 /analyze + /result — Upload .txt reports and receive AI-parsed vulnerability summaries, risk levels, and remediation advice.
 
 
 **🧠 AI Capabilities**
+
 /chat — Ask questions about cybersecurity, tools, or findings
 /code — Analyze code snippets for security issues
